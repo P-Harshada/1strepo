@@ -11,11 +11,17 @@ Do your all study and keep notes in git/github only
 new first repo for learning
 welcome to my repository
 
+quetions:
 1. what are the basic mac terminal commands
 2. how to use terminal command in vs code
 3. Understand Git add, commit, status, pull, push, merge commands, log, reflog,
 4. what are the branches in git
 5. common commands used for branches
+6. how to commit and push changes in git
+7. what is merge conflit in git, how to fix it?
+
+
+
 
 ## High Demand for Quantitative Analysis Skills in Healthcare and Pharmaceuticals
 
